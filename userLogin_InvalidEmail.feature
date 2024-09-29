@@ -16,4 +16,4 @@ Feature: Login Account
     Step -> User enters an invalid email
     Step -> User enters a valid password
     Step -> User clicks "Masuk" button
-    Step -> The app displays the error message "Email or phone number not registered"
+    Step -> The app displays the error message "Login Gagal - Pastikan data yang Anda masukkan benar
